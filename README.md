@@ -7,3 +7,5 @@ Om du är på sidan https://github.com/LBS-Helsingborg-Shared/matris_profildag s
 I GitHub Desktop kan du då välja att i toppmenyn gå in i File -> Clone repository. I denna rutan så kan du då välja URL-fliken, och sedan där kopierar du in den länken som du kopierade.
 
 OBS! Du ska inte göra commits till denna uppgift, utan du kan hålla allt lokalt på datorn.
+
+Test.
